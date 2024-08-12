@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prabhakar Y!
+# 👋 Hi, I'm Prabhakar Y
 
 Welcome to my GitHub profile!
 - I'm a passionate software engineer with expertise in quality assurance, performance testing, and automation across various domains. 
